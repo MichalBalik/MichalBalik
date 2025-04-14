@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 
 Motivated software developer with a diverse academic background and hands-on experience across multiple technologies. I hold degrees in Informatics from the Faculty of Management Science and Informatics in Žilina, and in Multimedia Engineering from the Faculty of Electrical Engineering and Information Technology.
 
